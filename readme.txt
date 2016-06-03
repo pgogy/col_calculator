@@ -2,8 +2,8 @@
 Contributors: pgogy
 Tags: adjunct action, adjunct, pay, calculator
 Requires at least: 3.0.0
-Tested up to: 4.2.2
-Stable tag: 0.2
+Tested up to: 4.5
+Stable tag: 0.3
 
 Adjunct Action unites adjunct professors at campuses across the country to address the crisis in higher education and the troubling trend toward a marginalized teaching faculty that endangers our profession.
 
